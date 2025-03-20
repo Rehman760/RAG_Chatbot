@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+langchain
+langchain_groq
+langchain_community
+faiss-cpu
+pypdf
+huggingface_hub
+langchain-huggingface
+tf-keras
